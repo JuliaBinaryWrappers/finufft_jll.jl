@@ -1,0 +1,11 @@
+name = "finufft_jll"
+uuid = "c41cd5a2-72a3-5203-9076-a500b088fc82"
+version = "1.1.2+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+FFTW_jll = "f5851436-0d7a-5f13-b9de-f02708fd171a"
+
+[compat]
+julia = "1.0"
