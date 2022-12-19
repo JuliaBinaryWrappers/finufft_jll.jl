@@ -1,315 +1,379 @@
 [[finufft]]
 arch = "aarch64"
-git-tree-sha1 = "7950a6de36bf185cdf9d5ed68d690af671ef5188"
+git-tree-sha1 = "27336a72e8c13951e409ea634bf4d328170d780d"
 lazy = true
 os = "macos"
 
     [[finufft.download]]
-    sha256 = "0ef6b96f45f6deb2357de8f248fa096cd1ba4b0a6b769d829e57c585e30045ab"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "ec825ab20f64fe3c4cf2eb5baf83692b8e286eaca4daf1c14bd5f400444a148f"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.aarch64-apple-darwin.tar.gz"
 [[finufft]]
 arch = "aarch64"
-git-tree-sha1 = "3e41a9fa12496a30a57a17339a75d5d9515d62eb"
+git-tree-sha1 = "e30e5118da553a649d1592d7ed45bb987ca1a7bc"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[finufft.download]]
-    sha256 = "28a89a8551b66c466fad6f30b1a525ade6bf4a1f894b26e880c3b6eb336f73e7"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "16c6cebc4a1987326f72c7602d8762c5d5fcefa8d02c912d4970bb4daec6a774"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.aarch64-linux-gnu.tar.gz"
 [[finufft]]
 arch = "aarch64"
-git-tree-sha1 = "ad4edd2b75651b77d3905388e751c7b6fb5b1e58"
+git-tree-sha1 = "dfeb08a81499d50507c2f48a3e156e349c859382"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[finufft.download]]
-    sha256 = "775cfcd45f39da90fb0e30fa507e681d8c06706558920f23f3d7ac85b2e1a37a"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.aarch64-linux-musl.tar.gz"
+    sha256 = "f395ba4283aea1715318ecdbe0bebb0b1806b34684da36aa22e22fbf47d681d8"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.aarch64-linux-musl.tar.gz"
 [[finufft]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "bf97957f9d22f0320cfa080ba72a23a3977ac77f"
+git-tree-sha1 = "db09f22364305ed9e826f198466c2e87e961026e"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[finufft.download]]
-    sha256 = "f3215e9f0774d8dd67f6a53bacd5062cbc6088e05a410ab3bd49c73c1c3e0cf5"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "c9b5d2d3b928d4776dc99e7f5b341305271528a5f83ac8878233e647419f35ee"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.armv6l-linux-gnueabihf.tar.gz"
 [[finufft]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "5b8c558a2539927853809fb09163993d7b266080"
+git-tree-sha1 = "71b4b785ea0601cd29a5358b46eb52f6bedddeaa"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[finufft.download]]
-    sha256 = "1f24d3563df4ca1d054b2bc13b554da560976e987802f76a5258c80d258ddcb0"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "cabe7d425745f6d76bba85443b9ff100eae6b4b58d07e185b3d7c997c1cc02e5"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.armv6l-linux-musleabihf.tar.gz"
 [[finufft]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "4ce863305cabfd04ea33cdee4dc71f49ac6d1412"
+git-tree-sha1 = "ef49161da577fd6f2c6959b674f4fc46e52380a5"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[finufft.download]]
-    sha256 = "0146929edd465f407861ffb9499d2abcf5766ecb59234c47dab78a099a1da7b0"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "dd4e1580d8845f8f44974c420a4a77f7ffe4716626f156945719c6df6645266f"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.armv7l-linux-gnueabihf.tar.gz"
 [[finufft]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "adf2873e75f42042bbdc5c0c2123c9890bf321b2"
+git-tree-sha1 = "e761a0ebe6d40a50551d8d9603afb327dbfe85a5"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[finufft.download]]
-    sha256 = "89b0120d5ed05b6b5239ca6af6c28eaa723ff8893a4b0e331b99094e92ceb4b3"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "b777cc8a33d3c08b34c75372b5e5a66603b76c84ecdc44555433f76cd5ac8798"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.armv7l-linux-musleabihf.tar.gz"
 [[finufft]]
 arch = "i686"
-git-tree-sha1 = "fa8dac52d06b96052263a6b9067ebb0619b710e4"
+git-tree-sha1 = "fb1fc23ec649d3542d27efe34db6e8567e1bdc53"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[finufft.download]]
-    sha256 = "a3b7758271570fc0449a5cb684658f1629d3048dd08f86e87fd1f1c8120f5428"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.i686-linux-gnu.tar.gz"
+    sha256 = "aa64b82fdea38f7d0ca4d05d6f7f12972d832e970f89f4b7fdb9cfc2a9c1d87d"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.i686-linux-gnu.tar.gz"
 [[finufft]]
 arch = "i686"
-git-tree-sha1 = "4bb1e68c31f165d87294279dd1ad9ce803f4a07d"
+git-tree-sha1 = "39667007956750a9dbb9f0f8beaafd9afeb196de"
 lazy = true
 libc = "musl"
 os = "linux"
 
     [[finufft.download]]
-    sha256 = "f78e6800b563e2aa72f0d046f12464313a2ab6645f767ba51913a95f5497342a"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.i686-linux-musl.tar.gz"
+    sha256 = "4ec49bcdb94bd5ef8397ede5893db52d8ded828bc6fb234f5a84201888e7463d"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.i686-linux-musl.tar.gz"
 [[finufft]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e85a7b5b498de18e48d2a373f6e238955eb0fcbe"
+git-tree-sha1 = "f28163b7abd22e18549a8df685f9d9c1ae680818"
 lazy = true
 os = "windows"
 
     [[finufft.download]]
-    sha256 = "bb3c4ee77b6380ddc4f0f5a192aad580b630d0c44f7b6ed129ee23531346d9e2"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "7c587bd6b66e27ae178081360b3b37bcbb65c78508c8e2a570ed0f04ab62f44f"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.i686-w64-mingw32-cxx03.tar.gz"
 [[finufft]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e3c9b69710debd4dd90e4da699cb746bc2417630"
+git-tree-sha1 = "192a5af3d53475e79e4ac267bcca02e2fd438ee5"
 lazy = true
 os = "windows"
 
     [[finufft.download]]
-    sha256 = "7b2123a004d4a1e25d181b116aa3050e1b729ec1da59af2da07f2d06db9b74fb"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "76616dc7451b8ed484a7abddcfe6d51ef5692202a44c6398dd62638b9c1246f6"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.i686-w64-mingw32-cxx11.tar.gz"
 [[finufft]]
 arch = "powerpc64le"
-git-tree-sha1 = "0e4ddafa469ec7de53de60047d01f4853298dc63"
+git-tree-sha1 = "77fe12bcf67a121d92518ef0198f7f11d2b1d4cb"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[finufft.download]]
-    sha256 = "75fb988382a91b39ea7601c058b39af9c382875312c3f7535d28fdaa266a8571"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "161aac712196667dc0df1e4c863e27f585b8c95fc391b6f441575f3a2bc8e0d8"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.powerpc64le-linux-gnu.tar.gz"
 [[finufft]]
 arch = "x86_64"
-git-tree-sha1 = "2f76c6bdef5de23da7c4b5f4b783aec619f57246"
+git-tree-sha1 = "8add1eb751aa2a9e0387bbb5c2d3ab8bc7edcfe0"
 lazy = true
 march = "avx"
 os = "macos"
 
     [[finufft.download]]
-    sha256 = "5f0460aa196765957d8a33574034e53a2a8eb444825fa0cba693a9f17ef5ef4f"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.x86_64-apple-darwin-march+avx.tar.gz"
+    sha256 = "475e8074951c7327eaa08fc8b08e8b16aab61367bc893172234cb0c1974b1bf9"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-apple-darwin-march+avx.tar.gz"
 [[finufft]]
 arch = "x86_64"
-git-tree-sha1 = "e8ba3fac8d34ba6a57f14ee7dda9c40371a3e1df"
+git-tree-sha1 = "dc901c6c5eedba6efb02bdf20ce7c5a0fad61a13"
 lazy = true
 march = "avx2"
 os = "macos"
 
     [[finufft.download]]
-    sha256 = "0eb5c94a1c22d2c750203298796f5f925bb85ac99742b79e37cf4088f7cdcd07"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.x86_64-apple-darwin-march+avx2.tar.gz"
+    sha256 = "b76440f9be75a23ebdb0c23bad5f9f1ba04b744dac4f709e1ce4b34836dafc2e"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-apple-darwin-march+avx2.tar.gz"
 [[finufft]]
 arch = "x86_64"
-git-tree-sha1 = "a43a94e2c4356fb5e2a1f0d103e047eb6f88a2bc"
+git-tree-sha1 = "3f6f150872541978cc7c06342455e91d89d9541f"
+lazy = true
+march = "avx512"
+os = "macos"
+
+    [[finufft.download]]
+    sha256 = "b806b7faab51114e3104da82fc9dda0d63bcf2835b37ee174701d00cc92f9f3e"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-apple-darwin-march+avx512.tar.gz"
+[[finufft]]
+arch = "x86_64"
+git-tree-sha1 = "efa4643e4bf871a0db34c71e48bac536786d5c9b"
 lazy = true
 march = "x86_64"
 os = "macos"
 
     [[finufft.download]]
-    sha256 = "5fabce512e05ba4462dc7860e750e376d3cca76ab5ec49e3f723e28b3a6d5d14"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.x86_64-apple-darwin-march+x86_64.tar.gz"
+    sha256 = "9d74c373cbcf8aa93c15ef54b8b36ee3762546486cd8a94c9af6800797cbba9e"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-apple-darwin-march+x86_64.tar.gz"
 [[finufft]]
 arch = "x86_64"
-git-tree-sha1 = "bdd2f1f124fdad240b1189aeedbbed12168794a7"
+git-tree-sha1 = "b1b0beb826085a2e7c660d3b909f1cb53bdde540"
 lazy = true
 libc = "glibc"
 march = "avx"
 os = "linux"
 
     [[finufft.download]]
-    sha256 = "f2decd3c790cbad4e499993046b96b971d0161de5ca112c24130c29537fa8c43"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.x86_64-linux-gnu-march+avx.tar.gz"
+    sha256 = "adbbdafbd9e5cd949d501617ea421c332c7731bff97ca7058f34e37b2e854593"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-linux-gnu-march+avx.tar.gz"
 [[finufft]]
 arch = "x86_64"
-git-tree-sha1 = "fb3e7f4b379e95ed8c5644596234212dc77a2299"
+git-tree-sha1 = "e463f4b732501230efad7e615463b915a9fc9a1a"
 lazy = true
 libc = "glibc"
 march = "avx2"
 os = "linux"
 
     [[finufft.download]]
-    sha256 = "63c0c6942daa8134d872c00eb4ab54bd84c273b27d011778aa52b27cc3e66ff5"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.x86_64-linux-gnu-march+avx2.tar.gz"
+    sha256 = "19279a43f5249a1b0e0a7979096491c8764945cfbb86563b8fef085bc640a90b"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-linux-gnu-march+avx2.tar.gz"
 [[finufft]]
 arch = "x86_64"
-git-tree-sha1 = "4aeac920f3621950cfdeae8f241f452ddacb54c2"
+git-tree-sha1 = "130224660e60cd1fd661e51edeaefdc6320f457d"
+lazy = true
+libc = "glibc"
+march = "avx512"
+os = "linux"
+
+    [[finufft.download]]
+    sha256 = "510e5bc9c6d26b0cca42f8fab19aa2cccb0a2aa947a80ddd32624307ab4a073c"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-linux-gnu-march+avx512.tar.gz"
+[[finufft]]
+arch = "x86_64"
+git-tree-sha1 = "97c3e1d560695991a876c857eacf0e9add6ad2fd"
 lazy = true
 libc = "glibc"
 march = "x86_64"
 os = "linux"
 
     [[finufft.download]]
-    sha256 = "e177c89bf236d2aa8ebbd748e50f8abd587ee9897a7ca8730990194384a2c549"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.x86_64-linux-gnu-march+x86_64.tar.gz"
+    sha256 = "187424c5fe91fada36aa34508f31ed207b01c33fe9ecebce03c2a2741d958e58"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-linux-gnu-march+x86_64.tar.gz"
 [[finufft]]
 arch = "x86_64"
-git-tree-sha1 = "68b709c68254eda443246df3196766b7649a6b9c"
+git-tree-sha1 = "b0dcc35e6b7784a26762a7f1c71dbb48344c69f5"
 lazy = true
 libc = "musl"
 march = "avx"
 os = "linux"
 
     [[finufft.download]]
-    sha256 = "2bf5293df6429334e53fff33b3c05d04e1fe84c2c3111d9fb91c3a700661b424"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.x86_64-linux-musl-march+avx.tar.gz"
+    sha256 = "ed41ce982f7e063a82ef91a95cd13616fbb7200edb193cc4cf55e0c42bb6e555"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-linux-musl-march+avx.tar.gz"
 [[finufft]]
 arch = "x86_64"
-git-tree-sha1 = "cad0373e660f2ba2d5369f1d54d50d02eeae20ea"
+git-tree-sha1 = "4aa880ad10b8e19ee534a6a6914d262a4f89c83c"
 lazy = true
 libc = "musl"
 march = "avx2"
 os = "linux"
 
     [[finufft.download]]
-    sha256 = "d68c82859d2a7f65e059523b890aae716a5a612b4285c805c1fad2a50ff9f483"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.x86_64-linux-musl-march+avx2.tar.gz"
+    sha256 = "7704aa60cf4cdd00c1b397fe4cc16c9644a350a1f2620e98129891e32d1ee595"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-linux-musl-march+avx2.tar.gz"
 [[finufft]]
 arch = "x86_64"
-git-tree-sha1 = "6da166932d9ce8262e8bb39eeb13b24934c20fbc"
+git-tree-sha1 = "c81eed5965c7f5058a2d1bbb31b858725ea0b07d"
+lazy = true
+libc = "musl"
+march = "avx512"
+os = "linux"
+
+    [[finufft.download]]
+    sha256 = "9c2e5099de9bd3e5970e3ff469c9656720b8d66591d640d3e7f31e34a97703e7"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-linux-musl-march+avx512.tar.gz"
+[[finufft]]
+arch = "x86_64"
+git-tree-sha1 = "3d715683e05eea4aedb040f1d57f79176a496b68"
 lazy = true
 libc = "musl"
 march = "x86_64"
 os = "linux"
 
     [[finufft.download]]
-    sha256 = "41ae767090fe860b2ef73ad25b790ad678812478f8d465926ebb0db8d5c43971"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.x86_64-linux-musl-march+x86_64.tar.gz"
+    sha256 = "478a95655e4b22892955a823146bf81ebaccf1913dd536f70117c3f267582315"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-linux-musl-march+x86_64.tar.gz"
 [[finufft]]
 arch = "x86_64"
-git-tree-sha1 = "a6ed36476a980edd7e117147f29c892d8d4b26cb"
+git-tree-sha1 = "ccaf460d0fe948a2a1acc90d9a8d8510a803609d"
 lazy = true
 march = "avx"
 os = "freebsd"
 
     [[finufft.download]]
-    sha256 = "f07631460232cfcce4672b0ca6c35daa8327015285c0d75f76713021c91ed4e2"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.x86_64-unknown-freebsd-march+avx.tar.gz"
+    sha256 = "650a35da6a9c4deb6fc3545f4611a92e8192756244f0e74f05d3b6ce6e80c64b"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-unknown-freebsd-march+avx.tar.gz"
 [[finufft]]
 arch = "x86_64"
-git-tree-sha1 = "f3d8f981d674ad197c40495d8ddab5bd51e82858"
+git-tree-sha1 = "54d524e3a6a4bb842499ed400affbe8ebf5c2335"
 lazy = true
 march = "avx2"
 os = "freebsd"
 
     [[finufft.download]]
-    sha256 = "bc1157ac3069b7bc904f831869f76ce94c0a54f130635d0f8d06e7c19f797806"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.x86_64-unknown-freebsd-march+avx2.tar.gz"
+    sha256 = "5038758336ace0bb7e5f9a84541b50a3d716e4e1c99d644b02c02e21d518246a"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-unknown-freebsd-march+avx2.tar.gz"
 [[finufft]]
 arch = "x86_64"
-git-tree-sha1 = "fdfcc14b0f78dda84a1c1da779afa959c190ffd6"
+git-tree-sha1 = "64696ff9ab3aac0ad5c52b37e5db4449660c7202"
+lazy = true
+march = "avx512"
+os = "freebsd"
+
+    [[finufft.download]]
+    sha256 = "3454e85e3b791ebafbba6b549b8fe2300f0ddf23d46b41271fb01768ecbe4a15"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-unknown-freebsd-march+avx512.tar.gz"
+[[finufft]]
+arch = "x86_64"
+git-tree-sha1 = "3dc6ca37bd2f7292f404a50a5ab1b951e5b6d4cf"
 lazy = true
 march = "x86_64"
 os = "freebsd"
 
     [[finufft.download]]
-    sha256 = "0b8c2c8f935671850147f6f769d3d2a798627f8615d04df98b05ff5e7f35e469"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.x86_64-unknown-freebsd-march+x86_64.tar.gz"
+    sha256 = "528cb794007a49ba77c5da3b33e2db41afcdca87111ada6dad97efac736dcc37"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-unknown-freebsd-march+x86_64.tar.gz"
 [[finufft]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "62a4d9964d6d7b36747c691719ed463f92f6210a"
+git-tree-sha1 = "f03b7b249367d5226809b668d7cbf91b9bee31fd"
 lazy = true
 march = "avx"
 os = "windows"
 
     [[finufft.download]]
-    sha256 = "b36fbb27655b77c9b9aa03978b2af8ff565535ba4f35e0742aca6e6979e5810d"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.x86_64-w64-mingw32-cxx03-march+avx.tar.gz"
+    sha256 = "d4dcc8c61ced94e5b4c22292af71e92d0d9a5eaff10565457de4d4c623b65bc1"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-w64-mingw32-cxx03-march+avx.tar.gz"
 [[finufft]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "602a4ffa15228fa8709215705d38ba76ce925113"
+git-tree-sha1 = "3401881b59ed33124eae77a156f2f2c96a71f517"
 lazy = true
 march = "avx2"
 os = "windows"
 
     [[finufft.download]]
-    sha256 = "f9b22147639bd63edf1ea95b8901455390a23c71c4844a9f2b14dceb524da3e7"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.x86_64-w64-mingw32-cxx03-march+avx2.tar.gz"
+    sha256 = "3548dbefb5b61dac47945673b0065f92b10879513f92eacbbf5c8c17b39dec05"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-w64-mingw32-cxx03-march+avx2.tar.gz"
 [[finufft]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4533f64fd1668f0003808fb2491adaf153b19131"
+git-tree-sha1 = "b871242dd305f7a5ca97e832b243e208c57f17df"
+lazy = true
+march = "avx512"
+os = "windows"
+
+    [[finufft.download]]
+    sha256 = "ac3490328279f34d88fc071859fe1dacc0520a9137744e34bba3cf5414f315f4"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-w64-mingw32-cxx03-march+avx512.tar.gz"
+[[finufft]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ca24f0b82ba22566c77f1e41c88c4afb32eae9e5"
 lazy = true
 march = "x86_64"
 os = "windows"
 
     [[finufft.download]]
-    sha256 = "77bb5715d20672e51e3a95756baabb3258e725f6893bca32d79371d9e6593c7b"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.x86_64-w64-mingw32-cxx03-march+x86_64.tar.gz"
+    sha256 = "c9f4523c3013a13ef10db11a8a3725b4c56b5eb1b0e220705fd61d49aeb38696"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-w64-mingw32-cxx03-march+x86_64.tar.gz"
 [[finufft]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b05034109e1b2db81cf84811b3b3305597468d50"
+git-tree-sha1 = "70c0a905294def840310bcf47421bec5ff138bc0"
 lazy = true
 march = "avx"
 os = "windows"
 
     [[finufft.download]]
-    sha256 = "2d48e4bff77b5209437d557a5367ce6bad75cd6b52f07e2e1438ef2907382145"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.x86_64-w64-mingw32-cxx11-march+avx.tar.gz"
+    sha256 = "11933290ef7d74f432ba2035877714fbc547236c1ddafb4b90d628e099ff23e2"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-w64-mingw32-cxx11-march+avx.tar.gz"
 [[finufft]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1a5f4e7ed3abc38b55cca5c7e997306531aebb9f"
+git-tree-sha1 = "14846470a3a5870027b7e2198485c686ee4f3811"
 lazy = true
 march = "avx2"
 os = "windows"
 
     [[finufft.download]]
-    sha256 = "21b1262690fda63f6e03d618a1b6af3561cd83d74f73799310586f0a0a08586c"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.x86_64-w64-mingw32-cxx11-march+avx2.tar.gz"
+    sha256 = "02b18ee91c0d99871ebe62096489ab8c45565f10268b3340ffa30ba730a6b517"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-w64-mingw32-cxx11-march+avx2.tar.gz"
 [[finufft]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1a5ad5136a898b7bbac01276f5d69502717c37a9"
+git-tree-sha1 = "c4751678403e989bdff58ea55c9893e9c28a3f56"
+lazy = true
+march = "avx512"
+os = "windows"
+
+    [[finufft.download]]
+    sha256 = "693135fcc5f571afcf4f5404a0ab367033cc698b02a5e41cfcb01256ddd2086d"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-w64-mingw32-cxx11-march+avx512.tar.gz"
+[[finufft]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0bbc70c3c1bb0e3d3022bdfacf69e53916e93594"
 lazy = true
 march = "x86_64"
 os = "windows"
 
     [[finufft.download]]
-    sha256 = "0ea5f9ef2bd0b53da98765999798f20c25e34b66273291f09e2193e9be53ac43"
-    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+0/finufft.v2.1.0.x86_64-w64-mingw32-cxx11-march+x86_64.tar.gz"
+    sha256 = "ac05f7b8b1142c68bd325151e939cf0ba7a68892120b96333a8835fc7cea4e0d"
+    url = "https://github.com/JuliaBinaryWrappers/finufft_jll.jl/releases/download/finufft-v2.1.0+1/finufft.v2.1.0.x86_64-w64-mingw32-cxx11-march+x86_64.tar.gz"
