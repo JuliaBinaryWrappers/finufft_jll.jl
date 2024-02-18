@@ -1,6 +1,6 @@
 name = "finufft_jll"
 uuid = "c41cd5a2-72a3-5203-9076-a500b088fc82"
-version = "2.2.0+0"
+version = "2.2.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
